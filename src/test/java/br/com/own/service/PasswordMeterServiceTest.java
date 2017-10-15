@@ -1,6 +1,7 @@
 package br.com.own.service;
 
-import br.com.own.model.PasswordMetric;
+import br.com.own.analyser.domain.business.PasswordMeterService;
+import br.com.own.analyser.domain.model.PasswordMetric;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
